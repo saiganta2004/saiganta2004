@@ -17,8 +17,8 @@ Welcome to my GitHub profile!
 
 ## How to Reach Me
 
-- [LinkedIn](#) <!-- Add your LinkedIn link here -->
-- [Email](mailto:your-email@example.com) <!-- Add your email here -->
+- [LinkedIn](#) <https://www.linkedin.com/in/pavansaiganta/>
+- [Email](mailto:your-email@example.com) <saiganta3699@gmail.com>
 
 ---
 
